@@ -1,6 +1,3 @@
-ChatGPT
-
-You said:
 Problem Statement 1: 
 Title: Containerisation and Deployment of Wisecow Application on Kubernetes 
 Project Repository: https://github.com/nyrahul/wisecow Wisecow App 
